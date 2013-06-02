@@ -1,0 +1,2 @@
+arduino plugin for vim
+arduino.mk from http://ed.am/dev/make/arduino-mk, with a little modification to adjust new Arduino IDE.
